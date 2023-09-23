@@ -1,1 +1,2 @@
 //check
+import react from ..
